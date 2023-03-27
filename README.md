@@ -22,7 +22,7 @@ Git se puede usar por línea de comandos o con una interfaz gráfica. En este pr
 
 Haskell es el lenguaje de programación en el que vamos a programar, y stack es una herramienta para gestionar proyectos en Haskell.
 
-Pueden encontrar como instalar todo [acá](https://www.pdep.com.ar/software/haskell#h.pj2ntrosqaku)
+Pueden encontrar como instalar todo [acá](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/entorno.md#ghcup)
 
 Si tienen algún problema usando Stack, revisen si es alguno de los mencionados acá, si no manden un mail pidiendo ayuda
 https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/troubleshooting.md
