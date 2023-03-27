@@ -18,12 +18,11 @@ Si lo descargan en windows, asegurense de marcar Git Bash en lo que instalan, es
 
 Git se puede usar por línea de comandos o con una interfaz gráfica. En este primer ejercicio vamos a mostrar como usarlo por línea de comandos.
 
-### Stack
+### Haskell y Stack
 
-Stack lo vamos a usar durante el paradigma funcional para trabajar con Haskell.
 Haskell es el lenguaje de programación en el que vamos a programar, y stack es una herramienta para gestionar proyectos en Haskell.
 
-Link para descargar Stack, explicado para diferentes sistemas operativos: https://docs.haskellstack.org/en/stable/README/#how-to-install
+Pueden encontrar como instalar todo [acá](https://www.pdep.com.ar/software/haskell#h.pj2ntrosqaku)
 
 Si tienen algún problema usando Stack, revisen si es alguno de los mencionados acá, si no manden un mail pidiendo ayuda
 https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/troubleshooting.md
